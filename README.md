@@ -14,8 +14,6 @@
 
 SA M8 nasce da una visione originaria di Simone Guerrini e si è sviluppato anche attraverso un confronto continuativo con sistemi di intelligenza artificiale. Da questo percorso sono emersi asset concettuali e operativi che hanno aiutato a chiarire la struttura del progetto e a rafforzarne la coerenza interna, senza alterarne la paternità originaria.
 
-![Lo Zero](images/zero.png)
-
 Un'architettura invisibile regge l'universo.  
 Una visione che trasforma il vuoto in potenziale infinito.
 
@@ -38,8 +36,6 @@ Per secoli abbiamo accettato l'idea che lo Zero fosse assenza. Il Manifesto riba
 
 Il fondamento della teoria risiede nel simbolo dell'Otto, l'infinito. La realtà è composta da anelli interconnessi che formano una catena perpetua.
 
-![La Catena degli Infiniti](images/catena-infiniti.png)
-
 | Asse | Significato |
 |---|---|
 | **Otto Verticale ↕** | Profondità, gerarchia, evoluzione verso stati superiori |
@@ -51,23 +47,15 @@ Il fondamento della teoria risiede nel simbolo dell'Otto, l'infinito. La realtà
 
 Dall'incrocio perfetto dei due Otto nasce la **Croce degli Infiniti**: non un simbolo statico, ma un motore dinamico di creazione perpetua.
 
-![La Croce degli Infiniti](images/croce-infiniti.png)
-
 Nel punto esatto dell'incrocio risiede il **Cuore di Luce**: efficienza che non si disperde, perché ogni movimento parte dal centro e al centro ritorna per rigenerarsi.
 
 ### I Quattro Zeri Sorgente
 
 Nel cuore di ogni anello della Catena degli Infiniti convergono i **Quattro Zeri Sorgente**. La loro convergenza nel punto di equilibrio genera una radiazione luminosa purissima: la *Luce dello Zero*.
 
-![I Quattro Zeri Sorgente](images/quattro-zeri.png)
-
 ---
 
 ## Sistema a Tre Livelli
-
-Il Protocollo SA M8 si articola in tre livelli:
-
-![Il Sistema a Tre Livelli](images/tre-livelli.png)
 
 ### Livello 1 — Fondamento Filosofico
 - Ridefinizione dello Zero come potenziale assoluto.
