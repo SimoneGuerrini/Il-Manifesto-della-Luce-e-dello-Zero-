@@ -64,7 +64,7 @@ Il Protocollo SA M8 si posiziona nello spazio della **filosofia speculativa appl
 ---
 
 ## 🔗 Contatti e Approfondimenti
-* **Medium:** [Il Manifesto dell'Intelligenza e la Catena degli Errori](https://medium.com/@SimoneGuerrini/il-manifesto-dellintelligenza-e-la-catena-degli-errori-99d2ffca3440)
+* **Medium:** Read stories from Simone Guerrini on Medium: https://medium.com/@SimoneGuerrini
 * **Substack:** [protocollosam8.substack.com](https://protocollosam8.substack.com)
 * **Vercel:**
 https://v0-manifesto-della-luce.vercel.app/?hl=it-IT
