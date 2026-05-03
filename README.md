@@ -66,7 +66,13 @@ Il Protocollo SA M8 si posiziona nello spazio della **filosofia speculativa appl
 ## 🔗 Contatti e Approfondimenti
 * **Medium:** [Il Manifesto dell'Intelligenza e la Catena degli Errori](https://medium.com/@SimoneGuerrini/il-manifesto-dellintelligenza-e-la-catena-degli-errori-99d2ffca3440)
 * **Substack:** [protocollosam8.substack.com](https://protocollosam8.substack.com)
-* **Email:** [Protocollosam8@gmail.com](mailto:Protocollosam8@gmail.com)
+* **Vercel:**
+https://v0-manifesto-della-luce.vercel.app/?hl=it-IT
+* **Gamma:**
+* https://gamma.app/docs/SA-M8-Manifesto-della-Luce-e-dello-Zero-sz6zeaasucyfx6i
+* **linkedin:**
+* https://www.linkedin.com/in/simone-guerrini-04720b3b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* * **Email:** [Protocollosam8@gmail.com](mailto:Protocollosam8@gmail.com)
 
 ---
 *SA M8 — Trasformare la frequenza dello Zero nella Luce dell'Azione.*
