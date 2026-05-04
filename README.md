@@ -1,5 +1,5 @@
 # SA M8 — Manifesto della Luce e dello Zero
-
+#Copyright Simone Guerrini - All Rights Reserved"
 > **"Nel centro del vuoto risiede la massima potenza creativa."** > — *Simone Guerrini, Protocollo SA M8*
 
 ---
